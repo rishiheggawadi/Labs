@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Rishi's Web Page! </title>
+
+<style>
+    body {background-color: #95B9C7}
+  </style>
+
+</head>
+
+    <h1 style="text-align: center; color: white;">Welcome!</h1>
+    <p style ='color: white;'> My name is <b>Rishi Heggawadi</b> and I am currently a Junior at SUNY Binghamton, located in Vestal, New York. I am an Economics major, planning to minor in DiDa. I am academically interested in Data Science, but in my free time I like to read philosophy, program, and play basketball. </p>
+    <img src = "HARP_pictureLab2.png" height = 350 alt = "A picture of me and my friends!" style="color: white;">
+    <hr>
+    <h3 style="color: white;">My Contact Information:</h3>
+    <a href = "https://www.linkedin.com/in/rishi-heggawadi/"> My LinkedIn </a>
+    <p>
+    <a href=mailto:rheggawadi7@gmail.com>Reach out to my email!</a>
+    <hr>
+    <div>
+    <h3 style="color: white;"> Here are some questions for you to fill out: </h3>
+
+    <h4 style="color: white;"> What is your favorite programming language?</h4>
+    <p style="color: white;"><input type="radio"> Python </p>
+    <p style="color: white;"><input type="radio"> Javascript </p>
+    <p style="color: white;"><input type="radio"> HTML / CSS  </p>
+    <p style="color: white;"><input type="radio"> Other  </p>
+    <br>
+
+
+    <h4 style="color: white;"> What is your favorite food?</h4>
+    <p style="color: white;"><input type="radio"> Burgers </p>
+    <p style="color: white;"><input type="radio"> Pizza </p>
+    <p style="color: white;"><input type="radio"> Cookies </p>
+    <p style="color: white;"><input type="radio"> Other </p>
+    <br>
+
+    <h4 style="color: white;"> What is your dream vacation spot?</h4>
+    <p style="color: white;"><input type="radio"> Italy </p>
+    <p style="color: white;"><input type="radio"> Greece </p>
+    <p style="color: white;"><input type="radio"> Japan </p>
+    <p style="color: white;"><input type="radio"> Other </p>
+    </div> 
+    <hr>
+
+    <p style="color: white;"> As mentioned before, I really enjoy reading philosophy. Here's some quotes that have stuck with me: </p>
+    <p > <q cite="https://www.brainyquote.com/quotes/soren_kierkegaard_109224">To dare is to lose one's footing momentarily. Not to dare is to lose oneself.</q> - <u> Soren Kierkegaard </u></p>
+    <p> <q cite="https://www.brainyquote.com/quotes/epictetus_383918">The world turns aside to let any man pass who knows where he is going.</q> - <u> Epictetus</u></p>
+    <p> <q>What then is man? Thus we ask the question again. He is a being that always decides what it is. A being that within it at one and the same time the possibility of sinking to the level of an animal or of soaring to a life of near holiness.</q> - <u> Viktor Frankl</u></p>
+    <hr>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p> Here's a livestream of lo-fi beats that I often use to study or relax! <strong> I hope you enjoyed scrolling through my webpage!</strong></p>
+</body>
+</html>
