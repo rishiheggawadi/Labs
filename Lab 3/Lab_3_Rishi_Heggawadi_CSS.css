@@ -1,0 +1,36 @@
+
+*{
+    background-color: #9075D8;
+}
+
+#heading{
+    text-align: center;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+#image{
+    border-style: solid;
+    border-color: #CEA2D7;
+    padding: 10px;
+}
+
+.question{
+    color: white;
+}
+
+.answer_choice{
+    color: white;
+    font-style:italic;
+}
+
+.link{
+    color:#CEA2D7;
+}
+
+.quote{
+    color: black;
+    font-style: italic;
+    font-weight:bold;
+}
